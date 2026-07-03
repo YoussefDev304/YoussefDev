@@ -2,7 +2,7 @@
 
 ### Flutter Developer 💙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/jobs/))
 [![Email](https://img.shields.io/badge/Gmail-Youssef-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/3/?ogbl#inbox)
 
 I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scalable mobile applications.
